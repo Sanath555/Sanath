@@ -47,7 +47,7 @@ body{
     height: 6em;
 }
 .contact-me{
-    height: 14em;
+    height: auto;
 }
 .footer{
     background-color: black;
