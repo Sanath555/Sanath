@@ -53,3 +53,10 @@ body{
     background-color: black;
     color: white;
 }
+.submit:hover{
+    background-color: orange;
+}
+.submit{
+    border: 0;
+    border-radius: 0.5em;
+}
